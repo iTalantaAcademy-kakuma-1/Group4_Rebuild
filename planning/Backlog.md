@@ -21,9 +21,6 @@
 - As a user i would like to have a section page for more description of the
   platform.
 - As a user i would like to see description of the feature page.
-
-## Could-Haves
-
 - As a user I would like to illustrate some various features so my visitors so
   my visitors could navigate easily through my platform.
 - As a user I would like to put some documents for my users to learn how to use
