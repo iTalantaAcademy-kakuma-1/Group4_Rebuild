@@ -8,6 +8,8 @@
 
 ---
 
-![Featurespage design](work.jpg)
+![Featurespage design](Featurespage.jpg)
 
-> > > > > > > Stashed changes
+# 3. Docx
+
+![Featurespage design](Docpage.png)
