@@ -1,1 +1,1 @@
-![homepage design](homepage.png)
+![homepage design](homepage.png) ![docspage design](Docpage.png)
