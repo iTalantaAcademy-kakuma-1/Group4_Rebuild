@@ -1,59 +1,33 @@
-# Backlog
-
-A collection of user stories for your project. Stories inside of each priority
-level are not necessarily in order. You and your team will decide when to
-develop each story by drawing out your [Story Sequencing](#story-sequencing).
-
 ## Must-Haves
 
-are necessary for basic usability:
-
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- As a user i would like my platform to have various pages so my clients could
+  navigate through.
+- As a user i would like to see a visible title of the platform in all the pages
+  of the platform.
+- As a user i would like to see a description of the website the platform.
+- As a user i would like to see a form where visitors can register their details
+- As a user i would like to see a feature page so that i see the features of the
+  website.
+- As a user i would like to see a document page cos i like to learn about the
+  platform.
+- As a user i would like to see description of the docs page.
 
 ## Should-Haves
 
-will complete the user experience, but are not necessary:
-
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- As a user i would like to display statistics of the platform so that my users
+  could see the the platform's number of deployments, publish and projects.
+- As a user i would like to display some pictures so that it could be easy for
+  visitors to use cross platform CLI.
+- As a user i would like to have a section page for more description of the
+  platform.
+- As a user i would like to see description of the feature page.
 
 ## Could-Haves
 
-would be really cool ... if there's time:
-
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
-
----
-
-## Story Sequencing
-
-![story sequencing graph](./story-sequencing-graph.svg)
+- As a user I would like to illustrate some various features so my visitors so
+  my visitors could navigate easily through my platform.
+- As a user I would like to put some documents for my users to learn how to use
+  my platform.
+- As a user i would like to display some of programming languages supported by
+  my platform. As a user i would to link my social media contacts on all the
+  pages of the platform so my visitors could contact me through them.
