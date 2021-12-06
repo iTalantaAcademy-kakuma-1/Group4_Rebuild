@@ -57,10 +57,11 @@ Use `css` to set the margin left 60%.
 Use `css` to set the padding to 20px.
 
 <<<<<<< HEAD
+
 - "As the owner i would like to see description of the docs page so that the
   users would read and interpret easily."
 
-- `Description`: add Docx page
+- `Description`: add Docs page
 
 use `HTML` to add a title of the web
 
@@ -90,8 +91,8 @@ Use `HTML` to add Copyright title
 
 Use `HTML` to add links for home page and features page
 
-use `CSS` to add buttons of icons for my social media
-=======
+# use `CSS` to add buttons of icons for my social media
+
 ## Should-Haves
 
 - As the owner i would like to display statistics of the platform so that my
@@ -166,4 +167,5 @@ Use `css` set the background color of the navigation bar to darkblue.
 Use `css` align the links to pages centrally.
 
 Use `css` to set a hover effect of 2s to the icons of the social media links.
->>>>>>> 64cced85ade93d2b22758a1ce1ee53bf46bed8ec
+
+> > > > > > > 64cced85ade93d2b22758a1ce1ee53bf46bed8ec
