@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 # Backlog
 
@@ -35,3 +36,6 @@
 - As a user i would like to display some of programming languages supported by
   my platform. As a user i would to link my social media contacts on all the
   pages of the platform so my visitors could contact me through them.
+=======
+### Backlog
+>>>>>>> Stashed changes
