@@ -1,10 +1,11 @@
-<<<<<<< Updated upstream
-=======
+# <<<<<<< Updated upstream
+
 # Backlog
 
 .
 
->>>>>>> Stashed changes
+> > > > > > > Stashed changes
+
 ## Must-Haves
 
 - As the owner i would like my platform to have various pages so that my clients
@@ -40,5 +41,6 @@
 - As the owner i would like to display some of programming languages supported
   by my platform so that my users would know what languages my platform
   supports.
-- As the owner i would to link my social media contacts on all the pages of the
-  platform so that my users could contact me through them when necessary.
+- As the owner i would to have a navigation bar with links to my social media
+  contacts on all the pages of the platform so that my users could contact me
+  through them when necessary.

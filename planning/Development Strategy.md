@@ -1,4 +1,6 @@
-# Development Strategy
+# Development Strategy for Homepage
+
+## Must-Haves
 
 - "As a user i would like my platform to have various pages so my clients could
   navigate through my platform."
@@ -53,3 +55,78 @@ Use `css` to set border radius to 5px.
 Use `css` to set the margin left 60%.
 
 Use `css` to set the padding to 20px.
+
+## Should-Haves
+
+- As the owner i would like to display statistics of the platform so that my
+  users could see the the platform's number of deployments, publish and
+  projects.
+
+- `Description`: Add statistics.
+
+Use `html`to add the statistics icons and their numbers.
+
+Use `css` to align the icons centrally and horizontally.
+
+Use `css` to set the sixes of the icons.
+
+use `css` to set the statistics icon identifiers.
+
+- "As the owner i would like to display some pictures so that the users could
+  easily learn how to use cross platform CLI."
+
+- `Description`: Add images.
+
+Use `html` to add images.
+
+Use `css` to align the images centrally.
+
+- " As the owner i would like to have a description section, so that the users
+  would know more about the platform."
+
+- `Description`: Add a description section with content.
+
+Use `html` to add the description section with content.
+
+Use `html` to add a cloud hosting image.
+
+Use `css` to set the section background blue.
+
+Use `css` to set the section font color white.
+
+Use `css` to set the section font family ariel.
+
+- "As the owner i would like to display some of programming languages supported
+  by my platform so that my users would know what languages my platform
+  supports."
+
+- `Description`: Add names and the images of the programming languages
+  supported.
+
+Use `html` to add the programming names.
+
+Use `html` to add the programming languages images.
+
+Use `css` to put the names and the images in a container.
+
+Use `css` to set the animation of container with images and names of the
+programming languages bouncy.
+
+- " As the owner i would to have a navigation bar with links to my social media
+  contacts on all the pages of the platform so that my users could contact me
+  through them when necessary."
+
+- `Description`: Add a navigation bar with links to all pages, title and and
+  links to social media contact.
+
+Use `html` to add the navigation bar.
+
+Use `html` to add links of the pages.
+
+Use `html` to add the links to social media contacts with icon.
+
+Use `css` set the background color of the navigation bar to darkblue.
+
+Use `css` align the links to pages centrally.
+
+Use `css` to set a hover effect of 2s to the icons of the social media links.
