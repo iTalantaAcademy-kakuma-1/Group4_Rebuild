@@ -53,3 +53,38 @@ Use `css` to set border radius to 5px.
 Use `css` to set the margin left 60%.
 
 Use `css` to set the padding to 20px.
+
+- "As the owner i would like to see description of the docs page so that the
+  users would read and interpret easily."
+
+- `Description`: add Docx page
+
+use `HTML` to add a title of the web
+
+use `HTML` to add a docx title and description
+
+use `HTML` to add links for home page and Features
+
+use `HTML` to add a table with 2 elements(Essentials and Deployment), - In
+essentials has 3 links (Introduction,about Loruki, Installation). - Indeployment
+has 4 links (Setting up a container, Using the CLI, Managing resources, Upgrade
+& downgrade)
+
+use `HTML` to add contents in the table of the 3 links below (Introduction,about
+Loruki, Installation)
+
+use `HTML` to add contents in the table of the 4 links below (Setting up a
+container, Using the CLI, Managing resources, Upgrade & downgrade).
+
+use `CSS` to add background colors
+
+use `CSS` to add an icon of a form next to Docx title
+
+- "As the owner i would to link my social media contacts on all the pages of the
+  platform so that my users could contact me through them when necessary."
+
+Use `HTML` to add Copyright title
+
+Use `HTML` to add links for home page and features page
+
+use `CSS` to add buttons of icons for my social media

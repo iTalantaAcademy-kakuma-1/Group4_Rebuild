@@ -1,10 +1,11 @@
-<<<<<<< Updated upstream
-=======
+# <<<<<<< Updated upstream
+
 # Backlog
 
 .
 
->>>>>>> Stashed changes
+> > > > > > > Stashed changes
+
 ## Must-Haves
 
 - As the owner i would like my platform to have various pages so that my clients
